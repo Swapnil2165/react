@@ -1,0 +1,26 @@
+.section{
+    width:400px;
+    height: 350px;
+    border: 1px solid red;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.section div{
+    margin-left: 20px;
+}
+
+.wrapper input{
+    height: 50px;
+    box-shadow: 5px 5px 10px #ccc;
+
+}
+
+.abc button{
+    background-color: blue;
+    width: 170px;
+    margin-top: 30px;
+    color: white;
+    box-shadow: 5px 5px 10px #ccc;
+
+}

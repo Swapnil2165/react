@@ -1,0 +1,18 @@
+.formContainer{
+    width: 50%;
+    border: 1px solid yellow;
+    margin: 0 auto;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 30px;
+    margin-top: 50px;
+}
+
+
+
+.inputDiv{
+    width: 47%;
+    padding: 10px;
+    margin-bottom: 20px;
+}

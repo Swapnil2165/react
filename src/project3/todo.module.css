@@ -1,0 +1,39 @@
+.todoContainer{
+    display: flex;
+    justify-content: center; 
+    align-items: center;   
+    background-color: lightblue;
+    min-height:100px;
+    width: 100%;
+}
+
+.todoWrapper{
+    min-width: 450px;
+    min-height: 650px;
+    background-color: white;
+    border-radius: 1em;
+    box-shadow: 3px 6px 20px #000;
+}
+.header{
+    text-align: center;
+}
+
+.todoInput {
+    margin-left: 25%;
+    width: 200pxs;
+    border-radius:  15px;
+    padding: 15px;
+    border: 1px solid blue;
+    font-size: 15px;
+}
+
+.todoButton{
+    padding: 13px 15px;
+    margin-left: 10px;
+    background-color:dodgerblue ;
+    border-radius: 15px;
+    color:#fff;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+}
